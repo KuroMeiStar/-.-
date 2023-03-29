@@ -1,0 +1,15 @@
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\bin\Debug\net6.0\КР.exe
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\bin\Debug\net6.0\КР.deps.json
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\bin\Debug\net6.0\КР.runtimeconfig.json
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\bin\Debug\net6.0\КР.dll
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\bin\Debug\net6.0\КР.pdb
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.csproj.AssemblyReference.cache
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.AssemblyInfoInputs.cache
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.AssemblyInfo.cs
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.csproj.CoreCompileInputs.cache
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.dll
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\refint\КР.dll
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.pdb
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\КР.genruntimeconfig.cache
+C:\Users\Beka\Documents\Итоги спец\-.-\КР\obj\Debug\net6.0\ref\КР.dll
